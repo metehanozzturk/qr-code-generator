@@ -1,18 +1,18 @@
-QR Code Generator
+QR Code Generator --
 This Python project allows you to generate QR codes from text or URLs easily. The generated QR codes are saved as image files, which can be used for various purposes like sharing links, storing information, or creating scannable codes for products or services.
 
-Features
+Features--
 Simple and Easy to Use: Just input your desired URL or text, and the script generates a QR code image.
 Customizable Output: The script generates QR codes with customizable error correction, box size, and border width.
 Output Format: The QR code is saved as a PNG image with black and white colors by default.
-Requirements
+Requirements--
 Python 3.x
 qrcode library
 You can install the required library using pip with the command:
 
 pip install qrcode[pil]
 
-Usage
+Usage--
 Clone this repository to your local machine by running the following command:
 git clone https://github.com/yourusername/your-repo-name.git
 
